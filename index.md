@@ -1,0 +1,2 @@
+# GameShot
+init
